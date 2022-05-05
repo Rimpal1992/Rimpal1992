@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rimpal1992
+- 👋 Hi, I’m @Rimpal
 - 👀 I’m interested in ... programming 
 - 🌱 I’m currently learning ... C/C++
 - 💞️ I’m looking to collaborate on ...
